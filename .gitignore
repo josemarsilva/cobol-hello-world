@@ -1,0 +1,6 @@
+# User Custom - Not Git
+*gitignore*.*
+
+
+# Ignore Microsoft Office temporary files
+~$*.xls*
