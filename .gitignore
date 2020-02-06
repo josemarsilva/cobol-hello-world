@@ -1,6 +1,8 @@
 # User Custom - Not Git
 *gitignore*.*
-
+count.dat
+log.dat
+cobol-hello-world.exe
 
 # Ignore Microsoft Office temporary files
 ~$*.xls*
