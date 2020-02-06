@@ -38,7 +38,7 @@
        PROCEDURE  DIVISION.
        XXX-00-PRINCIPAL  SECTION.
 
-           DISPLAY 'Hello Cobol World (with count)!'.
+           DISPLAY 'Hello Cobol World (see files "count.dat" and "log.dat")!'.
            PERFORM  VARYING  IND  FROM  1  BY  1
                       UNTIL  IND  GREATER  1000
                 MOVE  ZEROS  TO  TAB-OCC(IND)
